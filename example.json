@@ -1,0 +1,13 @@
+{
+    "name": "carlos",
+    "description": "Ejemplo de archivo json",
+    "courses": {
+        "advanced": ["PHP", "VUEjs"],
+        "basic": ["JavaScript", "Nodejs"]
+    },
+    "example": 1,
+    "example_2": "Texto",
+    "example_3": null,
+    "example_4": true,
+    "example_5": []
+}
